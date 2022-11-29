@@ -11,11 +11,8 @@ Example:
 ```bash
 $ python3 AI_for_financial_Time_Series.py
 ```
-#### `python3 AI_for_financial_Time_Series.py`
 *To run the code loading data from directory databases you need to run AI_for_financial_Time_Series with any additional argument (file name is possible).
 Example: 
 ```bash
 $ python3 AI_for_financial_Time_Series.py filename.txt
 ```
-#### `python3 AI_for_financial_Time_Series.py filename.txt`
-
